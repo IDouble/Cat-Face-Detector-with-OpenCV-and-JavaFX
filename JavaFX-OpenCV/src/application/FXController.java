@@ -46,14 +46,12 @@ public class FXController {
 	// Settings
 
 	// Set video device
-	private static int videodevice = 0;
 	
 	private CascadeClassifier face_cascade;
     private long detectedFaces;
     public BufferedImage croppedImage;
 
 	public void initController(int vd) {
-		videodevice = vd;
 		
 		face_cascade = new CascadeClassifier("C:/Users/Admin/Documents/opencv/sources/data/haarcascades/haarcascade_frontalface_alt.xml");  
         if(face_cascade.empty()){  
