@@ -12,14 +12,14 @@ It's a small application, but it's shows you how to:</br>
 ## 👥 Examples (Images) 👥
 
 The Face Detecting capabilities of **OpenCV (Open Source Computer Vision)** are working very well.</br>
-It detects the faces that are detectable, when somebody doesn't look at the camera, the face isn't really detectable, but there are solutions to fix this problem.
+It detects the faces that are detectable, when somebody doesn't look at the camera, the face isn't really detectable, but there are solutions to fix this problem. (Add more Patterns to search in Images as an example, but the application logically gets slower)
 
 ![Example Image OpenCV Face Detection](Images/Example_Image.png)
 
-You can see here very clearly how OpenCV works, by detecting patterns in your face.</br>
-The important Thing about this is, that it still was possible for the application to tell that there are 4 faces and not ignoring them.
-
 ![Example Image OpenCV Face Detection with different Faces](Images/Example_Image_different_photoshopped_faces.png)
+
+You can see here very clearly how **OpenCV** works, by detecting patterns in faces.</br>
+The important Thing about this is, that it still was possible for the application to tell that there are 4 faces on the picture and not ignoring them.
 
 # ☕️ How to import a JavaFX Application to Eclipse ☕️
 
