@@ -7,6 +7,19 @@ It's a small application, but it's shows you how to:</br>
 - Make pictures with the camera and render it as a video (FPS / frames per second)
 - Check pictures for patterns (in this case faces 👥)
 - Design a GUI for **OpenCV** Applications with JavaFX
+- Get the number of detected Faces
+
+## 👥 Examples (Images) 👥
+
+The Face Detecting capabilities of **OpenCV (Open Source Computer Vision)** are working very well.</br>
+It detects the faces that are detectable, when somebody doesn't look at the camera, the face isn't really detectable, but there are solutions to fix this problem.
+
+![Example Image OpenCV Face Detection](Images/Example_Image.png)
+
+You can see here very clearly how OpenCV works, by detecting patterns in your face.</br>
+The important Thing about this is, that it still was possible for the application to tell that there are 4 faces and not ignoring them.
+
+![Example Image OpenCV Face Detection with different Faces](Images/Example_Image_different_photoshopped_faces.png)
 
 # ☕️ How to import a JavaFX Application to Eclipse ☕️
 
