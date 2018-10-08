@@ -53,7 +53,7 @@ public class FXController {
 
 	public void initController(int vd) {
 		
-		face_cascade = new CascadeClassifier("C:/Users/Admin/Documents/opencv/sources/data/haarcascades/haarcascade_frontalface_alt.xml");  
+		face_cascade = new CascadeClassifier("C:/Users/Admin/Documents/opencv/sources/data/haarcascades/haarcascade_frontalcatface.xml");  
         if(face_cascade.empty()){  
              System.out.println("--(!)Error loading A\n");  
              return;  
