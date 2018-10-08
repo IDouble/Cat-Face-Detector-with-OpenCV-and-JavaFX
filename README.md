@@ -7,7 +7,7 @@ It's a small application, but it shows you how to:</br>
 - Make pictures with the camera and render it as a video (FPS / frames per second)
 - Check pictures for patterns (in this case cat faces 🐱)
 - Design a GUI for **OpenCV** Applications with JavaFX
-- Get the number of detected Faces
+- Get the number of detected Cat Faces 🐱
 
 ## 🐱 Examples (Images) 🐱
 
