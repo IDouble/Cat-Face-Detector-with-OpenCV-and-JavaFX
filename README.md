@@ -28,3 +28,5 @@ The important Thing about this is, that it still was possible for the applicatio
 3. Expand the General folder and select Existing Projects into Workspace, then click Next.
 4. You should now see the Import Projects dialog.
 5. Select Finish.
+
+![Binance Ready to give crypto a try ? buy bitcoin and other cryptocurrencies on binance](Images/binance.jpg)
